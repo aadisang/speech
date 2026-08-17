@@ -21,7 +21,9 @@ export default defineConfig({
     viteReact(),
     nitro(),
   ],
-  fmt: {},
+  fmt: {
+    ignorePatterns: ["src/routeTree.gen.ts"],
+  },
   lint: {
     ignorePatterns: [".next/**", ".output/**", "dist/**", "src/routeTree.gen.ts"],
     jsPlugins: [
