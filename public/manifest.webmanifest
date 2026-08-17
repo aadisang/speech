@@ -1,0 +1,16 @@
+{
+  "name": "Speech — Delayed Audio Feedback Tool",
+  "short_name": "Speech",
+  "description": "A free, private delayed auditory feedback tool for speech pace and fluency practice. Adjust delay and volume in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111110",
+  "theme_color": "#111110",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Speech audio feedback</title>
+  <rect width="64" height="64" rx="16" fill="#eeeeec" />
+  <path d="M14 27h8l11-9v28l-11-9h-8z" fill="#111110" />
+  <path
+    d="M39 25c4 4 4 10 0 14m7-20c8 7 8 19 0 26"
+    fill="none"
+    stroke="#111110"
+    stroke-linecap="round"
+    stroke-width="4"
+  />
+</svg>

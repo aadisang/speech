@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <title>Speech delayed audio feedback tool</title>
+  <rect width="1200" height="630" fill="#111110" />
+  <rect x="140" y="105" width="920" height="420" rx="42" fill="none" stroke="#222221" />
+  <rect x="212" y="169" width="56" height="56" rx="16" fill="#eeeeec" />
+  <path d="M224 195h8l11-9v28l-11-9h-8z" fill="#111110" />
+  <path d="M249 193c4 4 4 10 0 14m7-20c8 7 8 19 0 26" fill="none" stroke="#111110" stroke-linecap="round" stroke-width="4" />
+  <text x="284" y="208" fill="#eeeeec" font-family="Arial" font-size="28" font-weight="700">Speech</text>
+  <text x="212" y="354" fill="#eeeeec" font-family="Arial" font-size="68" font-weight="700" letter-spacing="-3">Delayed audio feedback</text>
+  <text x="212" y="421" fill="#8a8980" font-family="Arial" font-size="30">Practice pace and fluency in your browser.</text>
+</svg>

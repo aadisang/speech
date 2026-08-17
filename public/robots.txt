@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://speech.aadisanghvi.com/sitemap.xml
+Host: https://speech.aadisanghvi.com
