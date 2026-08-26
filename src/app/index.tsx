@@ -10,7 +10,7 @@ import {
 } from "@/lib/site";
 
 const pageTitle = `${SITE_TITLE} | ${SITE_NAME}`;
-const socialImage = `${SITE_URL}/opengraph-image-v2.png`;
+const socialImage = `${SITE_URL}/opengraph-image.png`;
 const jsonLd = {
   "@context": "https://schema.org",
   "@graph": [
