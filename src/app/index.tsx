@@ -84,12 +84,15 @@ export const Route = createFileRoute("/")({
       { content: socialImage, property: "og:image" },
       { content: "1200", property: "og:image:width" },
       { content: "630", property: "og:image:height" },
-      { content: "Speech delayed audio feedback tool", property: "og:image:alt" },
+      { content: "Delayed audio feedback for pace and fluency practice", property: "og:image:alt" },
       { content: "summary_large_image", name: "twitter:card" },
       { content: pageTitle, name: "twitter:title" },
       { content: SITE_DESCRIPTION, name: "twitter:description" },
       { content: socialImage, name: "twitter:image" },
-      { content: "Speech delayed audio feedback tool", name: "twitter:image:alt" },
+      {
+        content: "Delayed audio feedback for pace and fluency practice",
+        name: "twitter:image:alt",
+      },
     ],
     scripts: [
       {
